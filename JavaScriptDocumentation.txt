@@ -1,0 +1,5 @@
+console.log("string");  to print to console
+
+
+CLOSE OUT FOR DAY
+CMD C
